@@ -2,9 +2,9 @@
 
 ---
 
-# Ethiopian Skill Match – Web Application
+# ethiotalent-hub – Web Application
 
-Ethiopian Skill Match is a **Java-based web application** designed to connect **service seekers** with **skilled service providers** across Ethiopia.
+ethiotalent-hub is a **Java-based web application** designed to connect **service seekers** with **skilled service providers** across Ethiopia.
 The platform enables user registration, service listing, booking management, and role-based dashboards using a clean MVC architecture.
 
 ---
