@@ -144,7 +144,7 @@ EthiopianSkillMatch_Web/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/EthiopianSkillMatch_Web.git
+   git clone https://github.com/your-username/ethiotalent-hub.git
    ```
 
 2. Open the project in **Eclipse IDE**
@@ -158,7 +158,7 @@ EthiopianSkillMatch_Web/
 6. Open in browser:
 
    ```
-   http://localhost:8080/EthiopianSkillMatch_Web/
+   http://localhost:8080/ethiotalent-hub/
    ```
 
 ---
