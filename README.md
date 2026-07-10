@@ -197,13 +197,3 @@ Contributions are welcome!
 
 This project is developed for **educational and academic purposes**.
 You are free to modify and extend it.
-
----
-
-## 🙌 Author
-
-**Behailu Yifru**
-Computer Science Student
-## support
-For support, email yifrubehailu412@gmail.com or call 0944794893.
-
